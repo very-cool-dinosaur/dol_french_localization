@@ -11,12 +11,18 @@ Fluent in french ? You can contact me on discord if you wish to help me translat
 How to use ?
 ---------------------
 Like any mod with Modloader
+
 https://dolmodding.miraheze.org/wiki/ModLoader
 
 
 Credits
 ---------------------
+
 VRelnir for the Original DoL game : https://gitgud.io/Vrelnir/degrees-of-lewdity/-/releases
+
 Lyoko-Jeremie for the Modloader : https://github.com/Lyoko-Jeremie/DoLModLoaderBuild
+
 Number_sir for the localization tool : https://github.com/NumberSir/vrelnir_localization
+
 Lyoko-Jeremie for the Chinese I18N mod that I shamelessly copied for this mod : https://github.com/Lyoko-Jeremie/Degrees-of-Lewdity_Mod_i18nMod
+
