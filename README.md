@@ -13,7 +13,8 @@ Like any mod with Modloader
 https://dolmodding.miraheze.org/wiki/ModLoader
 
 
-----CREDITS----
+CREDITS
+---------------------
 VRelnir for the Original DoL game : https://gitgud.io/Vrelnir/degrees-of-lewdity/-/releases
 Lyoko-Jeremie for the Modloader : https://github.com/Lyoko-Jeremie/DoLModLoaderBuild
 Number_sir for the localization tool : https://github.com/NumberSir/vrelnir_localization
